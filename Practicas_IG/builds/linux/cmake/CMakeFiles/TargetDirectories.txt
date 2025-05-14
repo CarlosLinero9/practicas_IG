@@ -1,0 +1,4 @@
+/home/carlilloslinero/Escritorio/CUARTO/Informática/Primer cuatri/IG/pracs/Practicas_IG/builds/linux/cmake/CMakeFiles/debug_exe.dir
+/home/carlilloslinero/Escritorio/CUARTO/Informática/Primer cuatri/IG/pracs/Practicas_IG/builds/linux/cmake/CMakeFiles/release_exe.dir
+/home/carlilloslinero/Escritorio/CUARTO/Informática/Primer cuatri/IG/pracs/Practicas_IG/builds/linux/cmake/CMakeFiles/edit_cache.dir
+/home/carlilloslinero/Escritorio/CUARTO/Informática/Primer cuatri/IG/pracs/Practicas_IG/builds/linux/cmake/CMakeFiles/rebuild_cache.dir
